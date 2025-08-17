@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c696d1f8f3cf3092",
+        "id": "59c25fb20c6bad41",
         "type": "tabs",
         "children": [
           {
-            "id": "447bcdddc971b730",
+            "id": "42fba4b8a05d93c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CoreSkills/Design Dynamic Array (Resizable Array).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Design Dynamic Array (Resizable Array)"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 209.5
   },
   "right": {
     "id": "0e06b1ab99800a6d",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CoreSkills/Design Dynamic Array (Resizable Array).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Design Dynamic Array (Resizable Array)"
             }
           },
           {
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CoreSkills/Design Dynamic Array (Resizable Array).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Design Dynamic Array (Resizable Array)"
             }
           },
           {
@@ -159,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83edabc7f9f61589",
+  "active": "598b17140f69072b",
   "lastOpenFiles": [
+    "blind75",
+    "CoreSkills/Design Dynamic Array (Resizable Array).md",
+    "CoreSkills",
     "Test.md",
     "blind75"
   ]
