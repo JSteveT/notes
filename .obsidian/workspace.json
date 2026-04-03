@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a062c565da956c4",
+        "id": "39775ae6b0135b57",
         "type": "tabs",
         "children": [
           {
-            "id": "e12fc0cc18400889",
+            "id": "a55123569e4d64e8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e12fc0cc18400889",
+  "active": "83edabc7f9f61589",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "multiple-github-ssh-keys.md",
