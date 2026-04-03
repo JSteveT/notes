@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16fabf26b7a53058",
+        "id": "9a062c565da956c4",
         "type": "tabs",
         "children": [
           {
-            "id": "120fee604ce675b4",
+            "id": "e12fc0cc18400889",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ]
@@ -175,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "598b17140f69072b",
+  "active": "e12fc0cc18400889",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "multiple-github-ssh-keys.md",
     "CoreSkills/Design Dynamic Array (Resizable Array).md",
     "blind75",
